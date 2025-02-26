@@ -1,1 +1,1 @@
-*/1 * * * * /home/stas/run_cron_backup.sh
+*/1 * * * * /home/stas/15-4-5-2_run_cron_backup.sh
