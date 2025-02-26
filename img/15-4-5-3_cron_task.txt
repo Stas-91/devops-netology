@@ -1,0 +1,1 @@
+*/1 * * * * /home/stas/run_cron_backup.sh
