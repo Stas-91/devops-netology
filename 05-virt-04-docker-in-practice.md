@@ -152,6 +152,7 @@ https://github.com/Stas-91/devops-netology/blob/main/15-4-5-2_run_cron_backup.sh
 Использовал сеть хоста (поэтому не описывал ее в config.json)  
 Потом проверил права на запуск main.py  
 Mysql запустил в контейнере через докер, тоже на сети хоста
+Единственное, что я поменял в исходном коде приложения - это убрал флаг app.run(debug=False, host='0.0.0.0'), с True не получилось запустить.
 
 [config.json](config.json)
 
