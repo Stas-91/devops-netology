@@ -14,10 +14,24 @@
 ```
 docker node ls
 ```
+## Решение 1
+
+![virtual](img/15-5-1.jpg)
+
+---
+
 ## Задача 2 (*) (необязательное задание *).
 1.  Задеплойте ваш python-fork из предыдущего ДЗ(05-virt-04-docker-in-practice) в получившийся кластер.
 2. Удалите стенд.
 
+## Решение 2
+
+[docker-compose](img/15-5-2docker-compose.yml)  
+
+![virtual](img/15-5-2-1.jpg)
+![virtual](img/15-5-2-2.jpg)
+
+---
 
 ## Задача 3 (*)
 
@@ -27,3 +41,8 @@ docker node ls
 
 Иначе вернитесь к выполнению задания после прохождения модулей "terraform" и "ansible".
 
+## Решение 3
+
+![virtual](img/15-5-2-3-3.jpg)
+![virtual](img/15-5-2-3-2.jpg)
+![virtual](img/15-5-2-3-1.jpg)
