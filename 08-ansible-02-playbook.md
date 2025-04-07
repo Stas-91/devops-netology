@@ -24,6 +24,8 @@
 
 https://github.com/Stas-91/mnt-homeworks/blob/MNT-video/08-ansible-02-playbook/README.md
 
+[ansible](/img/17-2.txt)
+
 ---
 
 
